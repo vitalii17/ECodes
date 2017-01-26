@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/gui">
+        <file>qml/main.qml</file>
+        <file>qml/MainPage.qml</file>
+        <file>qml/CustomToolButton.qml</file>
+        <file>icons/accept.svg</file>
+        <file>icons/search.svg</file>
+        <file>qml/DBSelectionDialog.qml</file>
+        <file>qml/DetailDialog.qml</file>
+        <file>qml/AboutPage.qml</file>
+        <file>qml/DynamicObject.js</file>
+        <file>qml/TextLine.qml</file>
+        <file>qml/SearchLine.qml</file>
+        <file>qml/DocsSelectionDialog.qml</file>
+        <file>qml/DocumentViewerPage.qml</file>
+    </qresource>
+    <qresource prefix="/db">
+        <file>database/EnglishDB.xml</file>
+        <file>database/UkrainianDB.xml</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>translations/Russian.qm</file>
+        <file>translations/Ukrainian.qm</file>
+    </qresource>
+    <qresource prefix="/regulations">
+        <file>regulations/UA Перелік дозволених харчових добавок.htm</file>
+        <file>regulations/UA Перелік дозволених харчових добавок_files/gerb.gif</file>
+    </qresource>
+</RCC>

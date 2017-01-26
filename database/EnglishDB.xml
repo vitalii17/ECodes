@@ -1,0 +1,3064 @@
+<?xml version = "1.0"?>
+
+<enumbers>
+	<item>
+		<code>E100</code>
+		<name>Curcumin (from turmeric) </name>
+		<purpose>Yellow-orange </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E101</code>
+		<name>Riboflavin (Vitamin B2), formerly called lactoflavin </name>
+		<purpose>Yellow-orange </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E101a</code>
+		<name>Riboflavin-5&apos;-Phosphate </name>
+		<purpose>Yellow-orange </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E102</code>
+		<name>Tartrazine (FD&amp;C Yellow 5) </name>
+		<purpose>Lemon yellow </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E103</code>
+		<name>Alkannin </name>
+		<purpose>Red-brown </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E104</code>
+		<name>Quinoline Yellow WS </name>
+		<purpose>Dull or greenish yellow </purpose>
+		<status>Approved in the EU. Undergoing a voluntary phase-out in the UK.[citation needed]</status>
+	</item>
+	<item>
+		<code>E105</code>
+		<name>Fast Yellow AB </name>
+		<purpose>Yellow </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E106</code>
+		<name>Riboflavin-5-Sodium Phosphate </name>
+		<purpose>Yellow </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E107</code>
+		<name>Yellow 2G </name>
+		<purpose>Yellow </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E110</code>
+		<name>Sunset Yellow FCF (Orange Yellow S, FD&amp;C Yellow 6) </name>
+		<purpose>Yellow-orange </purpose>
+		<status>Approved in the EU. Banned in Norway. Products in the EU require warnings and its use is being phased out.[citation needed] Approved in the US.</status>
+	</item>
+	<item>
+		<code>E111</code>
+		<name>Orange GGN </name>
+		<purpose>Orange </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E120</code>
+		<name>Cochineal, Carminic acid, Carmine (Natural Red 4) </name>
+		<purpose>Crimson </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E121</code>
+		<name>Citrus Red 2 </name>
+		<purpose>Dark red </purpose>
+		<status>Approved in the United States only for use in colouring the skin of oranges.</status>
+	</item>
+	<item>
+		<code>E122</code>
+		<name>Carmoisine (azorubine) </name>
+		<purpose>Red to maroon </purpose>
+		<status>Approved in the EU. Undergoing a voluntary phase-out in the UK. Currently banned in Canada, Japan, Norway, USA .[citation needed] EU currently evaluating health risks.[citation needed]</status>
+	</item>
+	<item>
+		<code>E123</code>
+		<name>Amaranth (FD&amp;C Red 2) </name>
+		<purpose>Dark red </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E124</code>
+		<name>Ponceau 4R (Cochineal Red A, Brilliant Scarlet 4R) </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E125</code>
+		<name>Ponceau SX, Scarlet GN </name>
+		<purpose>Red </purpose>
+		<status>Only permitted for externally applied drugs and cosmetics in the US.</status>
+	</item>
+	<item>
+		<code>E126</code>
+		<name>Ponceau 6R </name>
+		<purpose>Red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E127</code>
+		<name>Erythrosine (FD&amp;C Red 3) </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E128</code>
+		<name>Red 2G </name>
+		<purpose>Red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E129</code>
+		<name>Allura Red AC (FD&amp;C Red 40) </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU. Banned in Switzerland[citation needed]. Undergoing a voluntary phase out in the UK. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E130</code>
+		<name>Indanthrene blue RS </name>
+		<purpose>Blue </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E131</code>
+		<name>Patent Blue V </name>
+		<purpose>Dark blue </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E132</code>
+		<name>Indigo carmine (indigotine, FD&amp;C Blue 2) </name>
+		<purpose>Indigo </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E133</code>
+		<name>Brilliant Blue FCF (FD&amp;C Blue 1) </name>
+		<purpose>Reddish blue </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E140</code>
+		<name>Chlorophylls and Chlorophyllins: (i) Chlorophylls (ii) Chlorophyllins </name>
+		<purpose>Green </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E141</code>
+		<name>Copper complexes of chlorophylls and chlorophyllins (i) Copper complexes of chlorophylls (ii) Copper complexes of chlorophyllins </name>
+		<purpose>Green </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E142</code>
+		<name>Green S </name>
+		<purpose>Green </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E143</code>
+		<name>Fast Green FCF (FD&amp;C Green 3) </name>
+		<purpose>Sea green </purpose>
+		<status>Approved in the US. Banned in the EU.</status>
+	</item>
+	<item>
+		<code>E150a</code>
+		<name>Plain caramel </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E150b</code>
+		<name>Caustic sulphite caramel </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E150c</code>
+		<name>Ammonia caramel </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E150d</code>
+		<name>Sulphite ammonia caramel </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the US.</status>
+	</item>
+	<item>
+		<code>E151</code>
+		<name>Black PN, Brilliant Black BN </name>
+		<purpose>Black </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E152</code>
+		<name>Carbon black (hydrocarbon) </name>
+		<purpose>Black </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E153</code>
+		<name>Vegetable carbon </name>
+		<purpose>Black </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E154</code>
+		<name>Brown FK (kipper brown) </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU for dyeing kippers only, however appears to no longer be used.</status>
+	</item>
+	<item>
+		<code>E155</code>
+		<name>Brown HT (chocolate brown HT) </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E160a</code>
+		<name>Alpha-carotene, Beta-carotene, Gamma-carotene </name>
+		<purpose>Yellow-orange to brown </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E160b</code>
+		<name>Annatto, bixin, norbixin </name>
+		<purpose>Orange </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E160c</code>
+		<name>Paprika oleoresin, Capsanthin, capsorubin </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E160d</code>
+		<name>Lycopene </name>
+		<purpose>Bright to deep red </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E160e</code>
+		<name>Beta-apo-8&apos;-carotenal (C 30) </name>
+		<purpose>Orange-red to yellow </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E160f</code>
+		<name>Ethyl ester of beta-apo-8&apos;-carotenic acid (C 30) </name>
+		<purpose>Orange-red to yellow </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E161a</code>
+		<name>Flavoxanthin </name>
+		<purpose>Golden-yellow and brownish </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161b</code>
+		<name>Lutein </name>
+		<purpose>Orange-red to yellow </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E161c</code>
+		<name>Cryptoxanthin </name>
+		<purpose>Orange-red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161d</code>
+		<name>Rubixanthin </name>
+		<purpose>Orange-red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161e</code>
+		<name>Violaxanthin </name>
+		<purpose>Orange </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161f</code>
+		<name>Rhodoxanthin </name>
+		<purpose>Purple </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161g</code>
+		<name>Canthaxanthin </name>
+		<purpose>Violet </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E161h</code>
+		<name>Zeaxanthin </name>
+		<purpose>Orange-red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161i</code>
+		<name>Citranaxanthin </name>
+		<purpose>Deep violet </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161j</code>
+		<name>Astaxanthin </name>
+		<purpose>Red </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E162</code>
+		<name>Beetroot Red, Betanin </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E163</code>
+		<name>Anthocyanins </name>
+		<purpose>pH dependent(Red, green and purple ranges) </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E164</code>
+		<name>Saffron </name>
+		<purpose>Orange-red[colour?] </purpose>
+		<status>Approved in the US.</status>
+	</item>
+	<item>
+		<code>E170</code>
+		<name>Calcium carbonate, Chalk </name>
+		<purpose>White </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E171</code>
+		<name>Titanium dioxide </name>
+		<purpose>White </purpose>
+		<status>Approved in the EU. Approved in the US.</status>
+	</item>
+	<item>
+		<code>E172</code>
+		<name>Iron oxides and iron hydroxides </name>
+		<purpose>Brown </purpose>
+		<status>Approved in the EU. Approved in the US for sausage casings.</status>
+	</item>
+	<item>
+		<code>E173</code>
+		<name>Aluminium </name>
+		<purpose>Silver to grey </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E174</code>
+		<name>Silver </name>
+		<purpose>Silver </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E175</code>
+		<name>Gold </name>
+		<purpose>Gold </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E180</code>
+		<name>Pigment Rubine, Lithol Rubine BK </name>
+		<purpose>Red </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E181</code>
+		<name>Tannin </name>
+		<purpose>Brown </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E182</code>
+		<name>Orcein, Orchil </name>
+		<purpose>Purple </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E200</code>
+		<name>Sorbic acid </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E201</code>
+		<name>Sodium sorbate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E202</code>
+		<name>Potassium sorbate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E203</code>
+		<name>Calcium sorbate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E209</code>
+		<name>Heptyl p-hydroxybenzoate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E210</code>
+		<name>Benzoic acid </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E211</code>
+		<name>Sodium benzoate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E212</code>
+		<name>Potassium benzoate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E213</code>
+		<name>Calcium benzoate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E214</code>
+		<name>Ethylparaben (ethyl para-hydroxybenzoate) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E215</code>
+		<name>Sodium ethyl para-hydroxybenzoate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E216</code>
+		<name>Propylparaben (propyl para-hydroxybenzoate) </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E217</code>
+		<name>Sodium propyl para-hydroxybenzoate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E218</code>
+		<name>Methylparaben (methyl para-hydroxybenzoate) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E219</code>
+		<name>Sodium methyl para-hydroxybenzoate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E220</code>
+		<name>Sulphur dioxide </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E221</code>
+		<name>Sodium sulphite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E222</code>
+		<name>Sodium bisulphite (sodium hydrogen sulphite) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E223</code>
+		<name>Sodium metabisulphite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E224</code>
+		<name>Potassium metabisulphite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E225</code>
+		<name>Potassium sulphite </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E226</code>
+		<name>Calcium sulphite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E227</code>
+		<name>Calcium hydrogen sulphite (preservative) </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E228</code>
+		<name>Potassium hydrogen sulphite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E230</code>
+		<name>Biphenyl, diphenyl </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E231</code>
+		<name>Orthophenyl phenol </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E232</code>
+		<name>Sodium orthophenyl phenol </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E233</code>
+		<name>Thiabendazole </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E234</code>
+		<name>Nisin </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E235</code>
+		<name>Natamycin, Pimaracin </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E236</code>
+		<name>Formic acid </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E237</code>
+		<name>Sodium formate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E238</code>
+		<name>Calcium formate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E239</code>
+		<name>Hexamine (hexamethylene tetramine) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E240</code>
+		<name>Formaldehyde </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E242</code>
+		<name>Dimethyl dicarbonate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E249</code>
+		<name>Potassium nitrite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E250</code>
+		<name>Sodium nitrite </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E251</code>
+		<name>Sodium nitrate (Chile saltpeter) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E252</code>
+		<name>Potassium nitrate (Saltpetre) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E260</code>
+		<name>Acetic acid (preservative) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E261</code>
+		<name>Potassium acetate (preservative) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E262</code>
+		<name>Sodium acetates (i) Sodium acetate (ii) Sodium diacetate (sodium hydrogen acetate) </name>
+		<purpose>preservative, acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E263</code>
+		<name>Calcium acetate (preservative) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E264</code>
+		<name>Ammonium acetate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in Australia and New Zealand</status>
+	</item>
+	<item>
+		<code>E265</code>
+		<name>Dehydroacetic acid </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E266</code>
+		<name>Sodium dehydroacetate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E270</code>
+		<name>Lactic acid (preservative) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E280</code>
+		<name>Propionic acid </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E281</code>
+		<name>Sodium propionate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E282</code>
+		<name>Calcium propionate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E283</code>
+		<name>Potassium propionate </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E284</code>
+		<name>Boric acid </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E285</code>
+		<name>Sodium tetraborate (borax) </name>
+		<purpose>preservative </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E290</code>
+		<name>Carbon dioxide </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E296</code>
+		<name>Malic acid (acid) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E297</code>
+		<name>Fumaric acid </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E300</code>
+		<name>Ascorbic acid (Vitamin C) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E301</code>
+		<name>Sodium ascorbate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E302</code>
+		<name>Calcium ascorbate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E303</code>
+		<name>Potassium ascorbate </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E304</code>
+		<name>Fatty acid esters of ascorbic acid (Ascorbyl palmitate) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E305</code>
+		<name>Ascorbyl stearate </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E306</code>
+		<name>Tocopherols (Vitamin E, natural) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E307</code>
+		<name>Alpha-tocopherol (synthetic) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E308</code>
+		<name>Gamma-tocopherol (synthetic) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E309</code>
+		<name>Delta-tocopherol (synthetic) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E310</code>
+		<name>Propyl gallate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E311</code>
+		<name>Octyl gallate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E312</code>
+		<name>Dodecyl gallate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E313</code>
+		<name>Ethyl gallate </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E314</code>
+		<name>Guaiac resin </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E315</code>
+		<name>Erythorbic acid </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E316</code>
+		<name>Sodium erythorbate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E317</code>
+		<name>Erythorbin acid </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E318</code>
+		<name>Sodium erythorbin </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E319</code>
+		<name>tert-Butylhydroquinone (TBHQ) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E320</code>
+		<name>Butylated hydroxyanisole (BHA) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E321</code>
+		<name>Butylated hydroxytoluene (BHT) </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E322</code>
+		<name>Lecithin </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E323</code>
+		<name>Anoxomer </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E324</code>
+		<name>Ethoxyquin </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E325</code>
+		<name>Sodium lactate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E326</code>
+		<name>Potassium lactate (antioxidant) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E327</code>
+		<name>Calcium lactate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E328</code>
+		<name>Ammonium lactate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E329</code>
+		<name>Magnesium lactate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E330</code>
+		<name>Citric acid </name>
+		<purpose>acid, acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E331</code>
+		<name>Sodium citrates (i) Monosodium citrate (ii) Disodium citrate (iii) Sodium citrate (trisodium citrate) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E332</code>
+		<name>Potassium citrates (i) Monopotassium citrate (ii) Potassium citrate (tripotassium citrate) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E333</code>
+		<name>Calcium citrates (i) Monocalcium citrate (ii) Dicalcium citrate (iii) Calcium citrate (tricalcium citrate) </name>
+		<purpose>acidity regulator, firming agent, sequestrant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E334</code>
+		<name>Tartaric acid (L(+)-) </name>
+		<purpose>(acid) </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E335</code>
+		<name>Sodium tartrates (i) Monosodium tartrate (ii), Disodium tartrate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E336</code>
+		<name>Potassium tartrates (i) Monopotassium tartrate (cream of tartar) (ii) Dipotassium tartrate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E337</code>
+		<name>Sodium potassium tartrate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E338</code>
+		<name>Orthophosphoric acid </name>
+		<purpose>acid </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E339</code>
+		<name>Sodium phosphates (i) Monosodium phosphate (ii) Disodium phosphate (iii) Trisodium phosphate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E340</code>
+		<name>Potassium phosphates (i) Monopotassium phosphate (ii) Dipotassium phosphate (iii) Tripotassium phosphate </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E341</code>
+		<name>Calcium phosphates (i) Monocalcium phosphate (ii) Dicalcium phosphate (iii) Tricalcium phosphate </name>
+		<purpose>anti-caking agent, firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E342</code>
+		<name>Ammonium phosphates: (i) monoammonium phosphate (ii) diammonium phosphate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E343</code>
+		<name>Magnesium phosphates (i) monomagnesium phosphate (ii) Dimagnesium phosphate </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU. This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives.</status>
+	</item>
+	<item>
+		<code>E344</code>
+		<name>Lecitin citrate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E345</code>
+		<name>Magnesium citrate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E349</code>
+		<name>Ammonium malate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E350</code>
+		<name>Sodium malates (i) Sodium malate (ii) Sodium hydrogen malate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E351</code>
+		<name>Potassium malate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E352</code>
+		<name>Calcium malates (i) Calcium malate (ii) Calcium hydrogen malate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E353</code>
+		<name>Metatartaric acid </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E354</code>
+		<name>Calcium tartrate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E355</code>
+		<name>Adipic acid </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E356</code>
+		<name>Sodium adipate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E357</code>
+		<name>Potassium adipate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E359</code>
+		<name>Ammonium adipate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E363</code>
+		<name>Succinic acid </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E365</code>
+		<name>Sodium fumarate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E366</code>
+		<name>Potassium fumarate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E367</code>
+		<name>Calcium fumarate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E368</code>
+		<name>Ammonium fumarate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E370</code>
+		<name>1,4-Heptonolactone </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E380</code>
+		<name>Triammonium citrate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E381</code>
+		<name>Ammonium ferric citrate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E383</code>
+		<name>Calcium glycerylphosphate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E384</code>
+		<name>Isopropyl citrate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E385</code>
+		<name>Calcium disodium ethylene diamine tetraacetate, (Calcium disodium EDTA) </name>
+		<purpose>sequestrant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E386</code>
+		<name>Disodium ethylene diamine tetraacetate (Disodium EDTA) </name>
+		<purpose>sequestrant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E387</code>
+		<name>Oxystearin </name>
+		<purpose>stabiliser </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E388</code>
+		<name>Thiodipropionic acid </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E389</code>
+		<name>Dilauryl thiodipropionate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E390</code>
+		<name>Distearyl thiodipropionate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E391</code>
+		<name>Phytic acid </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E392</code>
+		<name>Extracts of rosemary </name>
+		<purpose></purpose>
+		<status>Approved in 2010</status>
+	</item>
+	<item>
+		<code>E399</code>
+		<name>Calcium lactobionate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E400</code>
+		<name>Alginic acid (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E401</code>
+		<name>Sodium alginate (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E402</code>
+		<name>Potassium alginate (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E403</code>
+		<name>Ammonium alginate (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E404</code>
+		<name>Calcium alginate (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E405</code>
+		<name>Propane-1,2-diol alginate (Propylene glycol alginate) (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E406</code>
+		<name>Agar (thickener) (gelling agent) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E407</code>
+		<name>Carrageenan (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E407a</code>
+		<name>Processed eucheuma seaweed (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E408</code>
+		<name>Bakers yeast glycan </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E409</code>
+		<name>Arabinogalactan </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E410</code>
+		<name>Locust bean gum (Carob gum) (thickener) (stabiliser) (gelling agent) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E411</code>
+		<name>Oat gum (thickener) </name>
+		<purpose>stabiliser </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E412</code>
+		<name>Guar gum (thickener) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E413</code>
+		<name>Tragacanth (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E414</code>
+		<name>Acacia gum (gum arabic) (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E415</code>
+		<name>Xanthan gum (thickener) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E416</code>
+		<name>Karaya gum (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E417</code>
+		<name>Tara gum (thickener) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E418</code>
+		<name>Gellan gum (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E419</code>
+		<name>Gum ghatti (thickener) (stabiliser) </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E420</code>
+		<name>Sorbitol (i) Sorbitol (ii) Sorbitol syrup (emulsifier) (sweetener) </name>
+		<purpose>humectant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E421</code>
+		<name>Mannitol (anti-caking agent) </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E422</code>
+		<name>Glycerol (emulsifier) </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E424</code>
+		<name>Curdlan </name>
+		<purpose>gelling agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E425</code>
+		<name>Konjac (i) Konjac gum (ii) Konjac glucomannane </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU. May not be used in confectionery owing to choking risk.[citation needed]</status>
+	</item>
+	<item>
+		<code>E426</code>
+		<name>Soybean hemicellulose </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E427</code>
+		<name>Cassia gum </name>
+		<purpose></purpose>
+		<status>Approved in 2010</status>
+	</item>
+	<item>
+		<code>E429</code>
+		<name>Peptones </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E430</code>
+		<name>Polyoxyethene (8) stearate (emulsifier) </name>
+		<purpose>stabiliser </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E431</code>
+		<name>Polyoxyethene (40) stearate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E432</code>
+		<name>Polyoxyethene (20) sorbitan monolaurate (polysorbate 20) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E433</code>
+		<name>Polyoxyethene (20) sorbitan monooleate (polysorbate 80) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E434</code>
+		<name>Polyoxyethene (20) sorbitan monopalmitate (polysorbate 40) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E435</code>
+		<name>Polyoxyethene (20) sorbitan monostearate (polysorbate 60) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E436</code>
+		<name>Polyoxyethene (20) sorbitan tristearate (polysorbate 65) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E440</code>
+		<name>Pectins (i) pectin (ii) amidated pectin </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E441</code>
+		<name>Gelatine (emulsifier) </name>
+		<purpose>gelling agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E442</code>
+		<name>Ammonium phosphatides </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E443</code>
+		<name>Brominated vegetable oil </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E444</code>
+		<name>Sucrose acetate isobutyrate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E445</code>
+		<name>Glycerol esters of wood rosins </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E446</code>
+		<name>Succistearin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E450</code>
+		<name>Diphosphates (i) Disodium diphosphate (ii) Trisodium diphosphate (iii) Tetrasodium diphosphate (iv) Dipotassium diphosphate (v) Tetrapotassium diphosphate (vi) Dicalcium diphosphate (vii) Calcium dihydrogen diphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E451</code>
+		<name>Triphosphates (i) Sodium triphosphate (pentasodium triphosphate) (ii) Pentapotassium triphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E452</code>
+		<name>Polyphosphates (i) Sodium polyphosphates (ii) Potassium polyphosphates (iii) Sodium calcium polyphosphate (iv) Calcium polyphosphates (v) Ammonium polyphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E459</code>
+		<name>Beta-cyclodextrin </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E460</code>
+		<name>Cellulose (i) Microcrystalline cellulose (ii) Powdered cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E461</code>
+		<name>Methyl cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E462</code>
+		<name>Ethyl cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E463</code>
+		<name>Hydroxypropyl cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E464</code>
+		<name>Hypromellose (hydroxypropyl methylcellulose) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E465</code>
+		<name>Ethyl methyl cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E466</code>
+		<name>Carboxymethyl cellulose, Sodium carboxymethyl cellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E467</code>
+		<name>Ethyl hydroxyethyl cellulose </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E468</code>
+		<name>Crosslinked sodium carboxymethyl cellulose (Croscarmellose) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU. This additive is under discussion and may be included in a future amendment to the Directive on miscellaneous additives</status>
+	</item>
+	<item>
+		<code>E469</code>
+		<name>Enzymically hydrolysed carboxymethylcellulose </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E470a</code>
+		<name>Sodium, potassium and calcium salts of fatty acids (emulsifier) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E470b</code>
+		<name>Magnesium salts of fatty acids (emulsifier) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E471</code>
+		<name>Mono- and diglycerides of fatty acids (glyceryl monostearate, glyceryl distearate) </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472a</code>
+		<name>Acetic acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472b</code>
+		<name>Lactic acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472c</code>
+		<name>Citric acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472d</code>
+		<name>Tartaric acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472e</code>
+		<name>Mono- and diacetyl tartaric acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472f</code>
+		<name>Mixed acetic and tartaric acid esters of mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E472g</code>
+		<name>Succinylated monoglycerides </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E473</code>
+		<name>Sucrose esters of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E474</code>
+		<name>Sucroglycerides </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E475</code>
+		<name>Polyglycerol esters of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E476</code>
+		<name>Polyglycerol polyricinoleate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E477</code>
+		<name>Propane-1,2-diol esters of fatty acids, propylene glycol esters of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E478</code>
+		<name>Lactylated fatty acid esters of glycerol and propane-1 </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E479b</code>
+		<name>Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E480</code>
+		<name>Dioctyl sodium sulphosuccinate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E481</code>
+		<name>Sodium stearoyl-2-lactylate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E482</code>
+		<name>Calcium stearoyl-2-lactylate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E483</code>
+		<name>Stearyl tartrate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E484</code>
+		<name>Stearyl citrate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E485</code>
+		<name>Sodium stearoyl fumarate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E486</code>
+		<name>Calcium stearoyl fumarate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E487</code>
+		<name>Sodium laurylsulphate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E488</code>
+		<name>Ethoxylated Mono- and Di-Glycerides </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E489</code>
+		<name>Methyl glucoside-coconut oil ester </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E490</code>
+		<name>Propane-1,2-diol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E491</code>
+		<name>Sorbitan monostearate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E492</code>
+		<name>Sorbitan tristearate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E493</code>
+		<name>Sorbitan monolaurate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E494</code>
+		<name>Sorbitan monooleate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E495</code>
+		<name>Sorbitan monopalmitate </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E496</code>
+		<name>Sorbitan trioleate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E497</code>
+		<name>Polyoxypropylene-polyoxyethylene polymers </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E498</code>
+		<name>Partial polyglycerol esters of polycondensed fatty acids of castor oil </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E500</code>
+		<name>Sodium carbonates (i) Sodium carbonate (ii) Sodium bicarbonate (Sodium hydrogen carbonate) (iii) Sodium sesquicarbonate (acidity regulator) </name>
+		<purpose>raising agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E501</code>
+		<name>Potassium carbonates (i) Potassium carbonate (ii) Potassium bicarbonate (Potassium hydrogen carbonate) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E503</code>
+		<name>Ammonium carbonates (i) Ammonium carbonate (ii) Ammonium bicarbonate (Ammonium hydrogen carbonate) </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E504</code>
+		<name>Magnesium carbonates (i) Magnesium carbonate (ii) Magnesium bicarbonate Magnesium hydrogen carbonate </name>
+		<purpose>acidity regulator, anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E505</code>
+		<name>Ferrous carbonate </name>
+		<purpose>acidity regulator </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E507</code>
+		<name>Hydrochloric acid </name>
+		<purpose>acid </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E508</code>
+		<name>Potassium chloride (gelling agent) </name>
+		<purpose>seasoning </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E509</code>
+		<name>Calcium chloride (sequestrant) </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E510</code>
+		<name>Ammonium chloride, ammonia solution (acidity regulator) </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E511</code>
+		<name>Magnesium chloride </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E512</code>
+		<name>Stannous chloride </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E513</code>
+		<name>Sulphuric acid </name>
+		<purpose>acid </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E514</code>
+		<name>Sodium sulphates (i) Sodium sulphate (ii) </name>
+		<purpose>acid </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E515</code>
+		<name>Potassium Sulphates (i) Potassium Sulphate (ii) </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E516</code>
+		<name>Calcium sulphate </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E517</code>
+		<name>Ammonium sulphate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E518</code>
+		<name>Magnesium sulphate (Epsom salts), (acidity regulator) </name>
+		<purpose>firming agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E519</code>
+		<name>Copper(II) sulphate </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E520</code>
+		<name>Aluminium sulphate </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E521</code>
+		<name>Aluminium sodium sulphate </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E522</code>
+		<name>Aluminium potassium sulphate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E523</code>
+		<name>Aluminium ammonium sulphate </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E524</code>
+		<name>Sodium hydroxide </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E525</code>
+		<name>Potassium hydroxide </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E526</code>
+		<name>Calcium hydroxide (acidity regulator) </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E527</code>
+		<name>Ammonium hydroxide </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E528</code>
+		<name>Magnesium hydroxide </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E529</code>
+		<name>Calcium oxide (acidity regulator) </name>
+		<purpose>improving agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E530</code>
+		<name>Magnesium oxide (acidity regulator) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E535</code>
+		<name>Sodium ferrocyanide (acidity regulator) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E536</code>
+		<name>Potassium ferrocyanide </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E537</code>
+		<name>Ferrous hexacyanomanganate </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E538</code>
+		<name>Calcium ferrocyanide </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E539</code>
+		<name>Sodium thiosulphate </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E540</code>
+		<name>Dicalcium diphosphate (acidity regulator) </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E541</code>
+		<name>Sodium aluminium phosphate (i) Acidic (ii) Basic </name>
+		<purpose>emulsifier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E542</code>
+		<name>Bone phosphate (Essentiale Calcium Phosphate, Tribasic) </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E543</code>
+		<name>Calcium sodium polyphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E544</code>
+		<name>Calcium polyphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E545</code>
+		<name>Ammonium polyphosphate </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E550</code>
+		<name>Sodium Silicates (i) Sodium silicate (ii) Sodium metasilicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E551</code>
+		<name>Silicon dioxide (Silica) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E552</code>
+		<name>Calcium silicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E553a</code>
+		<name>(i) Magnesium silicate (ii) Magnesium trisilicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E553b</code>
+		<name>Talc </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E554</code>
+		<name>Sodium aluminosilicate (sodium aluminium silicate) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E555</code>
+		<name>Potassium aluminium silicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E556</code>
+		<name>Calcium aluminosilicate (calcium aluminium silicate) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E557</code>
+		<name>Zinc silicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E558</code>
+		<name>Bentonite </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E559</code>
+		<name>Aluminium silicate (Kaolin) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E560</code>
+		<name>Potassium silicate </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E561</code>
+		<name>Vermiculite </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E562</code>
+		<name>Sepiolite </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E563</code>
+		<name>Sepiolitic clay </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E565</code>
+		<name>Lignosulphonates </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E566</code>
+		<name>Natrolite-phonolite </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E570</code>
+		<name>Fatty acids </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E572</code>
+		<name>Magnesium stearate, calcium stearate (emulsifier) </name>
+		<purpose>anti-caking agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E574</code>
+		<name>Gluconic acid </name>
+		<purpose>acidity regulator </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E575</code>
+		<name>Glucono delta-lactone (acidity regulator) </name>
+		<purpose>sequestrant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E576</code>
+		<name>Sodium gluconate </name>
+		<purpose>sequestrant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E577</code>
+		<name>Potassium gluconate </name>
+		<purpose>sequestrant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E578</code>
+		<name>Calcium gluconate </name>
+		<purpose>firming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E579</code>
+		<name>Ferrous gluconate </name>
+		<purpose>food colouring </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E580</code>
+		<name>Magnesium gluconate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E585</code>
+		<name>Ferrous lactate </name>
+		<purpose>food colouring </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E586</code>
+		<name>4-Hexylresorcinol </name>
+		<purpose>antioxidant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E598</code>
+		<name>Synthetic calcium aluminates </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E599</code>
+		<name>Perlite </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E620</code>
+		<name>Glutamic acid </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E621</code>
+		<name>Monosodium glutamate (MSG) </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E622</code>
+		<name>Monopotassium glutamate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E623</code>
+		<name>Calcium diglutamate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E624</code>
+		<name>Monoammonium glutamate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E625</code>
+		<name>Magnesium diglutamate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E626</code>
+		<name>Guanylic acid </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E627</code>
+		<name>Disodium guanylate, sodium guanylate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E628</code>
+		<name>Dipotassium guanylate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E629</code>
+		<name>Calcium guanylate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E630</code>
+		<name>Inosinic acid </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E631</code>
+		<name>Disodium inosinate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E632</code>
+		<name>Dipotassium inosinate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E633</code>
+		<name>Calcium inosinate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E634</code>
+		<name>Calcium 5&apos;-ribonucleotides </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E635</code>
+		<name>Disodium 5&apos;-ribonucleotides </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E640</code>
+		<name>Glycine and its sodium salt </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E650</code>
+		<name>Zinc acetate </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E701</code>
+		<name>Tetracyclines </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E702</code>
+		<name>Chlortetracycline </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E703</code>
+		<name>Oxytetracycline </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E704</code>
+		<name>Oleandomycin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E705</code>
+		<name>Penicillin G potassium </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E706</code>
+		<name>Penicillin G sodium </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E707</code>
+		<name>Penicillin G procaine </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E708</code>
+		<name>Penicillin G benzathine </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E710</code>
+		<name>Spiramycins </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E711</code>
+		<name>Virginiamycins </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E712</code>
+		<name>Flavomycin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E713</code>
+		<name>Tylosin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E714</code>
+		<name>Monensin A </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E715</code>
+		<name>Avoparcin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E716</code>
+		<name>Salinomycin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E717</code>
+		<name>Avilamycin </name>
+		<purpose>antibiotic </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E900</code>
+		<name>Dimethyl polysiloxane (anti-foaming agent) </name>
+		<purpose>anti-caking agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E901</code>
+		<name>Beeswax, white and yellow </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E902</code>
+		<name>Candelilla wax </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E903</code>
+		<name>Carnauba wax </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E904</code>
+		<name>Shellac </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E905</code>
+		<name>Paraffins </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E905a</code>
+		<name>Mineral oil </name>
+		<purpose>anti-foaming agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E905b</code>
+		<name>Petrolatum </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E905c</code>
+		<name>Petroleum wax (i)Microcrystalline wax (ii) Paraffin wax </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E906</code>
+		<name>Gum benzoic </name>
+		<purpose>flavour enhancer </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E907</code>
+		<name>Crystalline wax </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E908</code>
+		<name>Rice bran wax </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E909</code>
+		<name>Spermaceti wax </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E910</code>
+		<name>Wax esters </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E911</code>
+		<name>Methyl esters of fatty acids </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E912</code>
+		<name>Montanic acid esters, Montan acid esters </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E913</code>
+		<name>Lanolin, sheep wool grease </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E914</code>
+		<name>Oxidized polyethylene wax, oxidized polyethylene </name>
+		<purpose>glazing agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E915</code>
+		<name>Esters of colophony </name>
+		<purpose>glazing agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E916</code>
+		<name>Calcium iodate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E917</code>
+		<name>Potassium iodate </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E918</code>
+		<name>Nitrogen oxides </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E919</code>
+		<name>Nitrosyl chloride </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E920</code>
+		<name>L-cysteine </name>
+		<purpose>improving agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E921</code>
+		<name>L-cystine </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E922</code>
+		<name>Potassium persulphate </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E923</code>
+		<name>Ammonium persulphate </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E924</code>
+		<name>Potassium bromate </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E924b</code>
+		<name>Calcium bromate </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E925</code>
+		<name>Chlorine </name>
+		<purpose>preservative, bleach, improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E926</code>
+		<name>Chlorine dioxide (preservative) </name>
+		<purpose>bleach </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E927a</code>
+		<name>Azodicarbonamide </name>
+		<purpose>improving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E927b</code>
+		<name>Carbamide (urea) </name>
+		<purpose>improving agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E928</code>
+		<name>Benzoyl peroxide (improving agent) </name>
+		<purpose>bleach </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E929</code>
+		<name>Acetone peroxide </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E930</code>
+		<name>Calcium peroxide (improving agent) </name>
+		<purpose>bleach </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E938</code>
+		<name>Argon </name>
+		<purpose>packaging gas </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E939</code>
+		<name>Helium </name>
+		<purpose>packaging gas </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E940</code>
+		<name>Dichlorodifluoromethane </name>
+		<purpose>packaging gas </purpose>
+		<status>Banned in all countries, in compliance with the Montreal Protocol.</status>
+	</item>
+	<item>
+		<code>E941</code>
+		<name>Nitrogen (packaging gas) </name>
+		<purpose>propellant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E942</code>
+		<name>Nitrous oxide </name>
+		<purpose>propellant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E943a</code>
+		<name>Butane </name>
+		<purpose>propellant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E943b</code>
+		<name>Isobutane </name>
+		<purpose>propellant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E944</code>
+		<name>Propane </name>
+		<purpose>propellant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E945</code>
+		<name>Chloropentafluoroethane </name>
+		<purpose>propellant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E946</code>
+		<name>Octafluorocyclobutane </name>
+		<purpose>propellant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E948</code>
+		<name>Oxygen </name>
+		<purpose>packaging gas </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E949</code>
+		<name>Hydrogen </name>
+		<purpose>packaging gas </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E950</code>
+		<name>Acesulfame potassium </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E951</code>
+		<name>Aspartame </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E952</code>
+		<name>Cyclamic acid and its sodium and calcium salts, also known as Cyclamate </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E953</code>
+		<name>Isomalt, Isomaltitol </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E954</code>
+		<name>Saccharin and its sodium, potassium and calcium salts </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E955</code>
+		<name>Sucralose (Trichlorogalactosucrose) </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E956</code>
+		<name>Alitame </name>
+		<purpose>sweetener </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E957</code>
+		<name>Thaumatin (sweetener) </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E958</code>
+		<name>Glycyrrhizin (sweetener) </name>
+		<purpose>flavour enhancer </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E959</code>
+		<name>Neohesperidine dihydrochalcone (sweetener) </name>
+		<purpose>flavour enhancer </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E960</code>
+		<name>Steviol glycosides </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E961</code>
+		<name>Neotame </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in 2010</status>
+	</item>
+	<item>
+		<code>E962</code>
+		<name>Aspartame-acesulfame salt (sweetener) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E965</code>
+		<name>Maltitol (i) Maltitol (ii) Maltitol syrup (sweetener) (stabiliser) </name>
+		<purpose>humectant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E966</code>
+		<name>Lactitol </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E967</code>
+		<name>Xylitol </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E968</code>
+		<name>Erythritol </name>
+		<purpose>sweetener </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E999</code>
+		<name>Quillaia extract </name>
+		<purpose>foaming agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1000</code>
+		<name>Cholic acid </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1001</code>
+		<name>Choline salts </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1100</code>
+		<name>Amylase </name>
+		<purpose>stabiliser, flavour enhancer </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1101</code>
+		<name>Proteases ((i)Protease, (ii)Papain, (iii)Bromelain, (iv)Ficin) </name>
+		<purpose>stabiliser, flavour enhancer </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1102</code>
+		<name>Glucose oxidase </name>
+		<purpose>antioxidant </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1103</code>
+		<name>Invertase </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1104</code>
+		<name>Lipases </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1105</code>
+		<name>Lysozyme </name>
+		<purpose>preservative </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1200</code>
+		<name>Polydextrose </name>
+		<purpose>stabiliser, thickening agent, humectant, carrier </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1201</code>
+		<name>Polyvinylpyrrolidone </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1202</code>
+		<name>Polyvinylpolypyrrolidone (carrier) </name>
+		<purpose>stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1203</code>
+		<name>Polyvinyl alcohol </name>
+		<purpose></purpose>
+		<status>Approved in 2010</status>
+	</item>
+	<item>
+		<code>E1204</code>
+		<name>Pullulan </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1400</code>
+		<name>Dextrin (Dextrins, roasted starch white and yellow) (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1401</code>
+		<name>Modified starch ((Acid-treated starch) stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1402</code>
+		<name>Alkaline modified starch (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1403</code>
+		<name>Bleached starch (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1404</code>
+		<name>Oxidized starch (emulsifier) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1405</code>
+		<name>Enzyme treated starch </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1410</code>
+		<name>Monostarch phosphate (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1411</code>
+		<name>Distarch glycerol (thickening agent) </name>
+		<purpose>emulsifier </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1412</code>
+		<name>Distarch phosphate esterified with sodium trimetasphosphate; esterified with phosphorus oxychloride (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1413</code>
+		<name>Phosphated distarch phosphate (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1414</code>
+		<name>Acetylated distarch phosphate (emulsifier) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1420</code>
+		<name>Starch acetate esterified with acetic anhydride (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1421</code>
+		<name>Starch acetate esterified with vinyl acetate (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1422</code>
+		<name>Acetylated distarch adipate (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1423</code>
+		<name>Acetylated distarch glycerol </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1430</code>
+		<name>Distarch glycerine (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1440</code>
+		<name>Hydroxy propyl starch (emulsifier) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1441</code>
+		<name>Hydroxy propyl distarch glycerine (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1442</code>
+		<name>Hydroxy propyl distarch phosphate (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1443</code>
+		<name>Hydroxy propyl distarch glycerol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1450</code>
+		<name>Starch sodium octenyl succinate (emulsifier) (stabiliser) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1451</code>
+		<name>Acetylated oxidised starch (emulsifier) </name>
+		<purpose>thickening agent </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1452</code>
+		<name>Starch aluminium octenyl succinate </name>
+		<purpose></purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1501</code>
+		<name>Benzylated hydrocarbons </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1502</code>
+		<name>Butane-1, 3-diol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1503</code>
+		<name>Castor oil </name>
+		<purpose>resolving agent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1504</code>
+		<name>Ethyl acetate </name>
+		<purpose>flavour solvent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1505</code>
+		<name>Triethyl citrate </name>
+		<purpose>foam stabiliser </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1510</code>
+		<name>Ethanol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1516</code>
+		<name>Glyceryl monoacetate </name>
+		<purpose>flavour solvent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1517</code>
+		<name>Glyceryl diacetate or diacetin </name>
+		<purpose>flavour solvent </purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1518</code>
+		<name>Glyceryl triacetate or triacetin </name>
+		<purpose>humectant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1519</code>
+		<name>Benzyl alcohol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1520</code>
+		<name>Propylene glycol </name>
+		<purpose>humectant </purpose>
+		<status>Approved in the EU.</status>
+	</item>
+	<item>
+		<code>E1521</code>
+		<name>Polyethylene glycol 8000 </name>
+		<purpose></purpose>
+		<status>Approved in 2010</status>
+	</item>
+	<item>
+		<code>E1525</code>
+		<name>Hydroxyethyl cellulose </name>
+		<purpose>thickening agent</purpose>
+		<status></status>
+	</item>
+</enumbers>

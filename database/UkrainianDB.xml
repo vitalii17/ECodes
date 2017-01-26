@@ -1,0 +1,3166 @@
+<?xml version = "1.0"?>
+
+<enumbers>
+	<item>
+		<code>E100</code>
+		<name>Куркуміни. Куркумін, куркума довга Curcumins</name>
+		<purpose>Жовто-помаранчевий. Ковбаси, сосиски, паштети, кондвироби, маргарини </purpose>
+		<status>Схвалений в: ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E101</code>
+		<name>Рибофлавіни. Рибофлавін Riboflavin</name>
+		<purpose>Жовто-помаранчевий. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E101a</code>
+		<name>Рибофлавіни. Рибофлавін-5&apos;-фосфат Riboflavin</name>
+		<purpose>Жовто-помаранчевий. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E102</code>
+		<name>Тартразин Tartrazine</name>
+		<purpose>Лимонний жовтий. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E104</code>
+		<name>Хіноліновий жовтий Quinoline Yellow WS</name>
+		<purpose>Зеленувато-жовтий. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E105</code>
+		<name>Жовтий тривкий AB Fast Yellow AB</name>
+		<purpose>Жовтий.</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E106</code>
+		<name>Рибофлавін-5-фосфат натрію Riboflavin-5-Sodium Phosphate</name>
+		<purpose>Жовтий.</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E107</code>
+		<name>Жовтий 2G Yellow 2G</name>
+		<purpose>Жовтий.</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E110</code>
+		<name>Жовтий «захід сонця», спеціальний жовтий FCF Sunset yellow FCF</name>
+		<purpose>Жовто-помаранчевий. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E111</code>
+		<name>Помаранчевий GGN Orange GGN</name>
+		<purpose>Помаранчевий.</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E120</code>
+		<name>Карміни. Кошеніль, кармінова кислота, кармін (натуральний червоний 4) Cochineal, Carminic acid, Carmine (Natural Red 4)</name>
+		<purpose>Малиновий. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E121</code>
+		<name>Цитрусовий червоний 2 Citrus Red 2</name>
+		<purpose>Темно-червоний.</purpose>
+		<status>Схвалений в США тільки для використання для додаткового забарвлення шкірки апельсинів	</status>
+	</item>
+	<item>
+		<code>E122</code>
+		<name>Кармазін, азорубін Carmoisine, Azorubine</name>
+		<purpose>Червоні та бордові. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E123</code>
+		<name>Амарант (барвник) Amaranth (FD &amp; C Red 2) Темно-червоний.</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС	</status>
+	</item>
+	<item>
+		<code>E124</code>
+		<name>Понсо 4R Ponceau 4R</name>
+		<purpose>Червоний. Безалкогольні напої, пресерви із фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E125</code>
+		<name>Понсо SX, Скарлет GN Ponceau SX, Scarlet GN</name>
+		<purpose>Червоний</purpose>
+		<status>Заборонений як харчовий додаток.	</status>
+	</item>
+	<item>
+		<code>E126</code>
+		<name>Понсо 6R Ponceau 6R</name>
+		<purpose>Червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E127</code>
+		<name>Еритрозин (FD &amp; C Red 3) Erythrosine (FD&amp;C Red 3)</name>
+		<purpose>Червоний</purpose>
+		<status>Схвалений в ЄС, США	</status>
+	</item>
+	<item>
+		<code>E128</code>
+		<name>Червоний 2G Red 2G</name>
+		<purpose>Червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E129</code>
+		<name>Спеціальний червоний AG AG Allura red AG</name>
+		<purpose>Червоний. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E130</code>
+		<name>Індантрон синій Indanthrene blue RS</name>
+		<purpose>Синій</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E131</code>
+		<name>Синій патентований V Patent blue V</name>
+		<purpose>Темно-синій. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E132</code>
+		<name>Індигокармін Indigotine</name>
+		<purpose>Індіго. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E133</code>
+		<name>Діамантовий синій Brilliant blue FCF</name>
+		<purpose>Червоно-синій. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E140</code>
+		<name>Хлорофіли Chlorophylls</name>
+		<purpose>Зелений. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E141</code>
+		<name>Мідні комплекси хлорофілів Chlorophylls copper complexes</name>
+		<purpose>Зелений.</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E142</code>
+		<name>Зелений S Green S</name>
+		<purpose>Зелений. Напої та кондитерські вироби</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E143</code>
+		<name>Fast Green FCF (FD&amp;C Green 3)</name>
+		<purpose>Бірюзовий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E150a</code>
+		<name>Цукровий колер I простий Caramel I-plain</name>
+		<purpose>Коричневий.</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E150b</code>
+		<name>Цукровий колер II Caramel II — Caustic sulfite</name>
+		<purpose>Коричневий.</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E150c</code>
+		<name>Цукровий колер III Caramel III-ammonian process</name>
+		<purpose>Коричневий.</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E150d</code>
+		<name>Цукровий колер IV Caramel IV-ammonia-sulphite</name>
+		<purpose>Коричневий.</purpose>
+		<status>Схвалений в США, Україні	</status>
+	</item>
+	<item>
+		<code>E151</code>
+		<name>Чорний PN, Чорний блискучий BN Black PN, Brilliant Black BN</name>
+		<purpose>Чорний</purpose>
+		<status>Схвалений в ЄС	</status>
+	</item>
+	<item>
+		<code>E152</code>
+		<name>Вугілля, Чорний 7984 харчовий барвник Carbon black (hydro-carbon), Black 7984 food colouring</name>
+		<purpose>Чорний</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E153</code>
+		<name>Сажа, вугілля рослинне Carbon black, Vegetable carbon</name>
+		<purpose>Чорний</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>Е154</code>
+		<name>Коричневий FK (копченої риби коричневий) Brown FK (kipper brown)</name>
+		<purpose>Коричневий</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E155</code>
+		<name>Коричневий HT (шоколадно-коричневий HT) Brown HT (chocolate brown HT)</name>
+		<purpose>Коричневий</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E160a</code>
+		<name>Каротини: бета-каротин синтетичний, екстракти натуральних каротинів Carotenes: Beta carotene sinthetic, Natural extracts</name>
+		<purpose>Жовто-помаранчевий до коричневого. Маргарини, вершкове масло, сири</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E160b</code>
+		<name>Екстракти аннато (аннато, біксин, норбіксин) Annato extracts (Annatto, bixin, norbixin)</name>
+		<purpose>Помаранчевий. Маргарини, вершкове масло, кондвироби, лікери, глазурі, олії</purpose>
+		<status>Схвалений в ЄС, США, Україні</status>
+	</item>
+	<item>
+		<code>E160c</code>
+		<name>Масло смоли паприки: екстракт паприки, капсофуксин, капсантен Paprika oleoresins Capsanthin, capsorubin</name>
+		<purpose>Червоний. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E160d</code>
+		<name>Лікопен Lycopene</name>
+		<purpose>Яскраві до темно-червоного. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США	</status>
+	</item>
+	<item>
+		<code>E160e</code>
+		<name>Бета-апо-8-каротинол Beta-apo-8-carotenal</name>
+		<purpose>Оранжево-червоного до жовтого. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E160f</code>
+		<name>Бета-апо-8-каротинової кислоти метиловий або етиловий етери Ethyl ester of beta-apo-8&apos;-carotenic acid</name>
+		<purpose>Оранжево-червоного до жовтого. Безалкогольні напої, пресерви з фруктів, кондвироби, морозиво, їстівні оболонки сирів, фруктові вина</purpose>
+		<status>Схвалений в ЄС	</status>
+	</item>
+	<item>
+		<code>E161a</code>
+		<name>Флавоксантин Flavoxanthin</name>
+		<purpose>Золотисто-жовтий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161b</code>
+		<name>Лютеїн Lutein</name>
+		<purpose>Оранжево-червоного до жовтого</purpose>
+		<status>Схвалений в ЄС	</status>
+	</item>
+	<item>
+		<code>E161c</code>
+		<name>Криптоксантин Cryptoxanthin</name>
+		<purpose>Оранжево-червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161d</code>
+		<name>Rubixanthin</name>
+		<purpose>Оранжево-червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161e</code>
+		<name>Віолаксантін Violaxanthin</name>
+		<purpose>Помаранчевий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161f</code>
+		<name>Родоксантин Rhodoxanthin</name>
+		<purpose>Фіолетовий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161g</code>
+		<name>Кантаксантин Canthaxanthin</name>
+		<purpose>Фіолетовий</purpose>
+		<status>Схвалений в ЄС, США	</status>
+	</item>
+	<item>
+		<code>E161h</code>
+		<name>Зеаксантин Zeaxanthin</name>
+		<purpose>Оранжево-червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161i</code>
+		<name>Citranaxanthin</name>
+		<purpose>Глибокий фіолетовий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E161j</code>
+		<name>Астаксантин Astaxanthin</name>
+		<purpose>Червоний</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E162</code>
+		<name>Червоний буряковий, бетанін Beetroot Red, Betanin</name>
+		<purpose>Червоний. За технологічною необхідністю</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E163</code>
+		<name>Антоціани: екстракт із шкірочки винограду, енобарвник, екстракт із чорної смородини Anthocyanins: Grape skin extract, Blackcurrant extract</name>
+		<purpose>рН залежним (червоний, зелений і фіолетовий діапазони). За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E164</code>
+		<name>Шафран Saffron</name>
+		<purpose>Кондвироби, борошняні, здоба, лікеро-горілчані вироби</purpose>
+		<status>Схвалений в США, Україні</status>
+	</item>
+	<item>
+		<code>E170</code>
+		<name>Вуглекислі солі кальцію: карбонат кальцію, бікарбонат кальцію Calcium carbonates, Calcium dicarbonates</name>
+		<purpose>Білий пігмент проти грудкоутворення, злежування, стабілізатор. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E171</code>
+		<name>Оксид титану Titanium dioxide</name>
+		<purpose>Білила. Зовнішні оболонки кондвиробів, за винятком шоколаду</purpose>
+		<status>Схвалений в ЄС, США, Україні	</status>
+	</item>
+	<item>
+		<code>E172</code>
+		<name>Оксиди та гідроксиди заліза Iron oxides and hydroxides</name>
+		<purpose>Коричневий. Зовнішні оболонки кондвиробів, за винятком шоколаду</purpose>
+		<status>Схвалений в ЄС, Україні. В США схвалений в США для ковбасних виробів	</status>
+	</item>
+	<item>
+		<code>E174</code>
+		<name>Срібло Silver</name>
+		<purpose>Срібний. Зовнішні оболонки кондвиробів, за винятком шоколаду</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E175</code>
+		<name>Золото (пігментний метал 3) Gold</name>
+		<purpose>Золотистий. Зовнішні оболонки кондвиробів, за винятком шоколаду</purpose>
+		<status>Схвалений в ЄС, Україні	</status>
+	</item>
+	<item>
+		<code>E180</code>
+		<name>Пігмент рубіновий, Литол рубіновий BK Pigment Rubine, Lithol Rubine BK</name>
+		<purpose>Червоний</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E181</code>
+		<name>Таніни Tannin</name>
+		<purpose>Коричневий</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E182</code>
+		<name>Орсеїн, орсель Orcein, Orchil</name>
+		<purpose>Фіолетовий</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Метивіолет</name>
+		<purpose>Маркування м&apos;яса, яєць, сирів</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Родамін C</name>
+		<purpose>Маркування яєць</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Фуксин кислий</name>
+		<purpose>Маркування м&apos;яса, яєць, сирів</purpose>
+		<status>Схвалений в Україні	</status>
+	</item>
+	<item>
+		<code>E200</code>
+		<name>Сорбінова кислота Sorbic acid </name>
+		<purpose>Сирокопчені ковбаси, молоко згущене, сири, ікра зерниста, креми, джеми, повидло, соки, маргарини, майонези, вина, безалкогольні напої</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E201</code>
+		<name>Сорбат натрію Sodium sorbate</name>
+		<purpose>Сирокопчені ковбаси, молоко згущене, сири, ікра зерниста, креми, джеми, повидло, соки, маргарини, майонези, вина, безалкогольні напої</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E202</code>
+		<name>Сорбат калію Potassium sorbate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Алілгірчична олія</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>Е203</code>
+		<name>Сорбат кальцію</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС,</status>
+	</item>
+	<item>
+		<code>E210</code>
+		<name>Бензойна кислота Benzoic acid</name>
+		<purpose>Меланж яєчний, ікра рибна, пресерви рибні, повидло, мармелад, сухофрукти, маргарин, вина, безалкогольні напої</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E211</code>
+		<name>Бензоат натрію Sodium Benzoate</name>
+		<purpose>Меланж яєчний, ікра рибна, пресерви рибні, повидло, мармелад, сухофрукти, маргарин, вина, безалкогольні напої</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е212</code>
+		<name>Бензоат калію Potassium Benzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС	</status>
+	</item>
+	<item>
+		<code>Е213</code>
+		<name>Бензоат кальцію Calcium Benzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е214</code>
+		<name>Етил-п-гідроксибензоат Ethyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е215</code>
+		<name>Натрієва сіль етил-п-гідроксибензоату Sodium Ethyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е216</code>
+		<name>Пропіл-п-гідроксибензоат Propyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е217</code>
+		<name>Натрієва сіль пропіл-п-гідроксибензоату Sodium Propyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е218</code>
+		<name>Метил-п-гідроксибензоат Methyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е219</code>
+		<name>Натрієва сіль метил-п-гідроксибензоату Sodium Methyl p-Hydroxybenzoate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E220</code>
+		<name>Діоксид сірки Sulphur dioxide</name>
+		<purpose>Консерви фаршеві зі скумбрії, галети, печиво, пастила, мармелад, повидло, джем, ізюм, соки, вина, гірчиця, сушені картопля та капуста</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E221</code>
+		<name>Сульфіт натрію Sodium sulphite</name>
+		<purpose>Фрукти, сухофрукти, овочі, вина, варення, зефір, соки.</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е222</code>
+		<name>Гідросульфіт натрію Sodium hydrogen sulphite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е223</code>
+		<name>Піросульфіт натрію Sodium metabisulphite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е224</code>
+		<name>Піросульфіт калію Potassium metabisulfite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е226</code>
+		<name>Сульфіт кальцію Calcium Sulphite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е227</code>
+		<name>Гідросульфіт кальцію Calcium Hydrogen Sulphite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е228</code>
+		<name>Бісульфіт калію Potassium Bisulphite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е230</code>
+		<name>Дифеніл (біфеніл) Diphenyl</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е231</code>
+		<name>о-Фенілфенол Orthophenyl phenol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е232</code>
+		<name>о-Фенілфенолят натрію Sodium orthophenyl phenol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е233</code>
+		<name>Тіабендазол Thiabendazole</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е234</code>
+		<name>Нізин Nisin</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е235</code>
+		<name>Пімаріцин (натаміцин) Pimaricin, (Natamycin)</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е236</code>
+		<name>Мурашина кислота Formic acid</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е237</code>
+		<name>Форміат натрію Sodium formate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е238</code>
+		<name>Форміат кальцію Calcium formate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Лактоцид Lactocid</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Перекис водню Hydrogenium peroxydum</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E239</code>
+		<name>Уротропін (гексаметилентетрамін) Urotropin Hexamethylenetetramin</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E240</code>
+		<name>Формальдегід Formaldehyde</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E242</code>
+		<name>Диметилдикарбонат Dimethyl dicarbonate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E249</code>
+		<name>Нітрит калію Potassium nitrite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E250</code>
+		<name>Нітрит натрію Sodium nitrite</name>
+		<purpose>Вироби із свинини варені, копчено-запечені, консерви м&apos;ясні, ковбаса сирокопчена, солонина з баранини, яловичина</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E251</code>
+		<name>Нітрат натрію Sodium nitrate</name>
+		<purpose>Готові м&apos;ясні продукти</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E252</code>
+		<name>Нітрат калію Potassium nitrate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E260</code>
+		<name>Оцтова кислота Acetic acid</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е261</code>
+		<name>Ацетат калію</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е262</code>
+		<name>Ацетат натрію Sodium acetate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е263</code>
+		<name>Ацетат кальцію Calcium acetate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е264</code>
+		<name>Ацетат амонію Ammonium acetate</name>
+		<purpose>консервант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е265</code>
+		<name>Дегідроацетова кислота Dehydroacetic acid</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е266</code>
+		<name>Дегідроацетат натрію Sodium dehydroacetate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E270</code>
+		<name>Молочна кислота (L, D та LD) Lactic acid</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е280</code>
+		<name>Пропіонова кислота Propionic acid</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е281</code>
+		<name>Пропіонат натрію Sodium propionate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е282</code>
+		<name>Пропіонат кальцію Calcium propionate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е283</code>
+		<name>Пропіонат калію Potassium propionate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е284</code>
+		<name>Борна кислота Boric acid</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е285</code>
+		<name>Тетраборат натрію (бура) Sodium tetraborate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, в Україні</status>
+	</item>
+	<item>
+		<code>E290</code>
+		<name>Діоксид вуглецю (вуглекислий газ) CO2 Carbon dioxide</name>
+		<purpose>Газовані напої, мінеральні води, шипучі вина</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E296</code>
+		<name>Яблучна кислота (DL-) Malic acid</name>
+		<purpose>Сік ананасовий, джеми, желе, мармелади</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E297</code>
+		<name>Фумарова кислота Fumaric acid</name>
+		<purpose>регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E300</code>
+		<name>Аскорбінова кислота Ascorbic acid</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E301</code>
+		<name>Аскорбат натрію Sodium ascorbate</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E302</code>
+		<name>Аскорбат кальцію Calcium ascorbate</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E303</code>
+		<name>Аскорбат калію Potassium ascorbate</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E304</code>
+		<name>Аскорбіл пальмітат Ascorbyl palmitate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E305</code>
+		<name>Аскорбіл стеарат Ascorbyl stearat</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E306</code>
+		<name>Концентрат суміші токоферолів Mixed tocopherols concentrate</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E307</code>
+		<name>Альфа-токоферол Alpha-tocopherol</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E308</code>
+		<name>Гамма-токоферол Gamma-tocopherol</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E309</code>
+		<name>Дельта-токоферол Delta-tocopherol</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E310</code>
+		<name>Пропіл галат Propyl Gallate</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E311</code>
+		<name>Октил галат Octyl gallate</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E312</code>
+		<name>Додецил галат Dodecyl gallate</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E313</code>
+		<name>Етил галат Ethyl gallate</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E314</code>
+		<name>Guaiac resin</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E315</code>
+		<name>Ериторбова кислота</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E316</code>
+		<name>Ізоаскорбат натрію (Ериторбат натрію) Sodium Isoascorbate</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E317</code>
+		<name>Ізо-аскорбат калію (Ериторбат калію) Potassium Isoascorbate</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E318</code>
+		<name>Ізо-аскорбат кальцію (Ериторбат кальцію) Calcium Isoascorbate</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E319</code>
+		<name>терт-Бутилгідрохінон tert-Butylhydroquinone (TBHQ)</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E320</code>
+		<name>Бутил гідроксианізол Butylated hydroxyanisole (BHA)</name>
+		<purpose>Жири тваринні й олії для продуктів з тепловою обробкою, супи, соуси, спеції, рибні продукти і риба консервована, сухі сніданки, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E321</code>
+		<name>Бутил гідрокситолуол Butylated hydroxytoluene (BHT)</name>
+		<purpose>Жири тваринні й олії для продуктів з тепловою обробкою, супи, соуси, спеції, рибні продукти і риба консервована, сухі сніданки, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E322</code>
+		<name>Лецитини Lecithines</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄСУкраїні</status>
+	</item>
+	<item>
+		<code>E323</code>
+		<name>Аноксомер Anoxomer</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E324</code>
+		<name>Етоксихін Ethoxyquin</name>
+		<purpose>антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E325</code>
+		<name>Лактат натрію Sodium lactate (solution)</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E326</code>
+		<name>Лактат калію Potassium lactate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E327</code>
+		<name>Лактат кальцію Calcium lactate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E328</code>
+		<name>Лактат амонію Ammonium lactate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E329</code>
+		<name>Лактат магнію Magnesium lactate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E330</code>
+		<name>Лимонна кислота Citric acid</name>
+		<purpose>За технологічною необхідністю, в тому числі какао, шоколадні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E331</code>
+		<name>Цитрати натрію Potassium citrates</name>
+		<purpose>За технологічною необхідністю, в тому числі какао, шоколадні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E332</code>
+		<name>Цитрати калію Potassium citrates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E333</code>
+		<name>Цитрати кальцію Calcium citrates</name>
+		<purpose>регулятор кислотності, зміцнюючий засіб; речовина, що підсилює екскрецію</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E334</code>
+		<name>Винна кислота Tartaric acid, L (+)</name>
+		<purpose>За технологічною необхідністю, в тому числі какао, шоколадні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E335</code>
+		<name>Тартрати натрію Sodium tartrates</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E336</code>
+		<name>Тартрати калію Potassium tartrates</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E337</code>
+		<name>Натрій-калій тартрат Sodium potassium tartrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E338</code>
+		<name>Ортофосфатна кислота Orthophosphoric acid</name>
+		<purpose>Безалкогольні ароматизовані напої, молоко і рослинні білкові напої, м&apos;ясні продукти, сири, аналоги рослинних жирів; відбілювання напоїв</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E339</code>
+		<name>Фосфати натрію. Фосфат натрію, гідрофосфат натрію Sodium phosphates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е340</code>
+		<name>Фосфати калію Potassium phosphates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E341</code>
+		<name>Фосфати кальцію Calcium Phosphates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E342</code>
+		<name>Фосфати амонію Ammonium phosphates</name>
+		<purpose>Хліб</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E343</code>
+		<name>Фосфати магнію Magnesium phosphates</name>
+		<purpose>Запобігає злипанню</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E344</code>
+		<name>Цитрат лецитину Lecithin Citrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E345</code>
+		<name>Цитрат магнію Magnesium Citrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E349</code>
+		<name>Малат амонію Ammonium Malate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E350</code>
+		<name>Малати натрію Sodium malates</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E351</code>
+		<name>Малат калію Potassium malate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E352</code>
+		<name>Малати кальцію Calcium malates</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E353</code>
+		<name>Метавинна кислота Metatartaric acid</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E354</code>
+		<name>Тартрат кальцію Calcium tartrate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E355</code>
+		<name>Адипінова кислота Adipic acid</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в</status>
+	</item>
+	<item>
+		<code>E356</code>
+		<name>Адипінат натрію Sodium adipate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E357</code>
+		<name>Адипінат калію Potassium adipate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E359</code>
+		<name>Адипінат амонію Ammonium adipate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E363</code>
+		<name>Бурштинова кислота Succinic acid</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E365</code>
+		<name>Фумарат натрію Sodium fumarate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E366</code>
+		<name>Фумарат калію Potassium fumarate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E367</code>
+		<name>Фумарат кальцію Calcium fumarate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E368</code>
+		<name>Фумарат амонію Ammonium fumarate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E370</code>
+		<name>1,4-гептонолактон 1,4-Heptonolactone</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E380</code>
+		<name>Цитрат амонію Triammonium citrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E381</code>
+		<name>Амоній-залізо(III) цитрат Ammonium ferric citrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E383</code>
+		<name>Гліцерилфосфат кальцію Calcium glycerylphosphate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E384</code>
+		<name>Ізопропіл цитрат Isopropyl citrate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E385</code>
+		<name>Кальцію-натрію етилендіамінтетраацетат Calcium disodium ethylene diamine tetraacetate, (Calcium disodium EDTA)</name>
+		<purpose>майонезів, емульгованих соусів, у якості консерванту, антиоксидантантиоксиданту і синергісту антиоксидантів, комплексоутворювача і диспергуючої речовини.</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е386</code>
+		<name>Етилендіамінтетраацетат натрію Disodium ethylene diamine-tetraacetate</name>
+		<purpose>речовина, що підсилює екскрецію</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E387</code>
+		<name>Оксистеарин Oxystearin</name>
+		<purpose>стабілізатор (їжі)</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E388</code>
+		<name>Тіодипропіонова кислота Thiodipropionic acid</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E389</code>
+		<name>Дилаурил тіодипропіонат Dilauryl thiodipropionate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E390</code>
+		<name>Дистеарил тіодипропіонат Distearyl thiodipropionate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E391</code>
+		<name>Фітинова кислота Phytic acid</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E392</code>
+		<name>Екстракти розмарину Extracts of rosemary</name>
+		<purpose>Затверджено в ЄСу 2010 р.</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E399</code>
+		<name>Лактобіонат кальцію Calcium lactobionate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E400</code>
+		<name>Альгінова кислота Alginic acid</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E401</code>
+		<name>Альгінат натрію Sodium alginate</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E402</code>
+		<name>Альгінат калію Potassium alginate</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E403</code>
+		<name>Альгінат амонію Ammonium alginate</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E404</code>
+		<name>Альгінат кальцію Calcium alginate</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E405</code>
+		<name>Пропіленглікольальгінат Propyleneglycolalginate</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E406</code>
+		<name>Агар-агар Agar</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E407</code>
+		<name>Каррагінан та його натрієва, калієва та амонієва солі, включаючи фурацелеран (агароїд) Carrageenan and its Na, K, NH4 salts</name>
+		<purpose>Сухе молоко, сир, десерти, желе, мармелад, соуси, молочні</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E407a</code>
+		<name>Оброблені водорості Eucheuma Processed eucheuma seaweed</name>
+		<purpose>Загущувач, емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E408</code>
+		<name>Глікани пекарських дріжджів Bakers yeast glycan</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E409</code>
+		<name>Араб іногалактан Arabinogalactan</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E410</code>
+		<name>Камедь ріжкового дерева Locust carab bean gum</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E411</code>
+		<name>Вівсяна камедь Oat gum</name>
+		<purpose>За технологічною необхідністю, в тому числі джем, желе, мармелад, горіхове пюре</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E412</code>
+		<name>Гуарова камідь Guar gum</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄСУкраїні</status>
+	</item>
+	<item>
+		<code>E413</code>
+		<name>Трагакант Tragacanth gum</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E414</code>
+		<name>Гуміарабік Gum arabic</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E415</code>
+		<name>Ксантанова камедь Xantan gum</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E416</code>
+		<name>Карайї камедь Karaya gum</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E417</code>
+		<name>Тари камедь Tara gum</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E418</code>
+		<name>Геланова камедь Gellan gum</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E419</code>
+		<name>Gum ghatti (thickener) (стабілізатор (їжі))</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E420</code>
+		<name>Сорбіт та сорбітовий сироп Sorbitol and Sorbitol syrup</name>
+		<purpose>Замінник цукру для хворих на діабет.</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E421</code>
+		<name>Маніт Mannitol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E422</code>
+		<name>Гліцерин Glycerol</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E424</code>
+		<name>Курдлан Curdlan</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E425</code>
+		<name>Аморфофалюс коньяк Konjac</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄСНе можуть використовуватись в конд.виробах.[Джерело?]</status>
+	</item>
+	<item>
+		<code>E426</code>
+		<name>Soybean hemicellulose</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E427</code>
+		<name>Cassia gum</name>
+		<purpose>Затверджено в ЄС2010 році</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E429</code>
+		<name>Пептони Peptones</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E430</code>
+		<name>Polyoxyethene (8) stearate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E431</code>
+		<name>Поліоксиетилен (40) стеарат Polyoxyethylene (40) stearate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E432</code>
+		<name>Поліоксиетиленсорбітан монолаурат Твін-20 Polyoxyethylene (20) Sorbitan monolaurate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E433</code>
+		<name>Поліоксиетиленсорбітанмоноолеат, Твін-80 Polyoxyethylene (20) Sorbitan monooleate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E434</code>
+		<name>Поліоксиетиленсорбітан монопальмітат, Твін-40 Polyoxyethylene (20) Sorbitan monopalmitate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E435</code>
+		<name>Поліоксиетиленсорбітан моностеарат, Твін-60 Polyoxyethylene (20) Sorbitan monostearate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E436</code>
+		<name>Поліоксиетиленсорбітан тристеарат Polyoxyethylene (20) Sorbitan tristearate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E440</code>
+		<name>Пектини Pectins</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E441</code>
+		<name>Желатин Gelatine</name>
+		<purpose>Консерви м&apos;ясні, рибні, заливні, желе</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E442</code>
+		<name>Фосфатиду амонійні солі</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Кондвироби наоснові шоколаду і какао, непрозорі напої</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E443</code>
+		<name>Brominated vegetable oil</name>
+		<purpose>Емульгатор</purpose>
+		<status>У США обмежено для використання тільки в фруктовому напої до 15 ppm.</status>
+	</item>
+	<item>
+		<code>E444</code>
+		<name>Sucrose acetate isobutyrate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E445</code>
+		<name>Гліцеринові ефіри із деревної смоли</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Кондвироби наоснові шоколаду і какао, непрозорі напої</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E446</code>
+		<name>Succistearin</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E450</code>
+		<name>Пірофосфати Diphosphates Пірофосфати натрію: однозаміщений (i), двозаміщений (ii), тризаміщений (iii)</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Десерти, морозиво, соуси, ковбасні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E451</code>
+		<name>Трифосфати натрію, калію</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Супи, бульйони, сидр, трав&apos;яні настої, чай, шоколад і солодові молочні напої, алкогольні напої (крім вина і пива), вівсяні пластівці, ковбасні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E452</code>
+		<name>Поліфосфати натрію, калію, натрію-кальцію, кальцію, амонію</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Супи, бульйони, сидр, трав&apos;яні настої, чай, шоколад і солодові молочні напої, алкогольні напої (крім вина і пива), вівсяні пластівці, ковбасні вироби</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E459</code>
+		<name>Бета-циклодекстрин Beta-cyclodextrin</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E460</code>
+		<name>Целюлоза Cellulose</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E461</code>
+		<name>Метилцелюлоза Methyl cellulose</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Делікатесні хлібобулочні вироби, морозиво, десерти, супи, бульйони, соуси, лікери, дієтичні продукти</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E462</code>
+		<name>Етилцелюлоза Ethyl cellulose</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E463</code>
+		<name>Гідроксипропілцелюлоза Hydroxypropyl cellulose</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E464</code>
+		<name>Гідроксипропілметилцелюлоза, гіпромелоза Hydroxy propyl methyl cellulose, = hypromellose</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E465</code>
+		<name>Етилметилцелюлоза Ethyl methyl cellulose</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Карбюлоза Carbulose</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E466</code>
+		<name>Карбоксіметилцелюлози натрієва сіль Sodium carboxymethyl cellulose</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. Делікатесні хлібобулочні вироби, морозиво, десерти, супи, бульйони, соуси, лікери, дієтичні продукти</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E467</code>
+		<name>Етилгідроксиетилцелюлоза Ethyl hydroxyethyl cellulose</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E468</code>
+		<name>Crosslinked sodium carboxymethyl cellulose (Croscarmellose)</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E469</code>
+		<name>Enzymically hydrolysed carboxymethylcellulose</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E470</code>
+		<name>Жирних кислот солі амонію, кальцію, натрію, магнію, калію, алюмінію Salts of fatty acids (with base Al, Ca, Na, Mg, K and NH4)</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E470a</code>
+		<name>Натрієві, каоієві, кальцієві солі жирних кислот</name>
+		<purpose>Агенти, що запобігають злипанню</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E470b</code>
+		<name>Магнієві солі жирних кислоти</name>
+		<purpose>Агенти, що запобігають злипанню</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E471</code>
+		<name>Моно- та дигліцериди жирних кислот Mono- and Di-glycerides of fatty acids</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472a</code>
+		<name>Естери гліцерину та оцтової і жирних кислот Acetic and fatty acid esters of glycerol</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472b</code>
+		<name>Естери гліцерину та молочної і жирних кислот Lactic and fatty acid esters of glycerol</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472c</code>
+		<name>Естери гліцерину та лимонної і жирних кислот Citric and fatty acid esters of glycerol</name>
+		<purpose>Емульгатори, стабілізатори, розпушувачі. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472d</code>
+		<name>Естери моно- та дигліцеридів та винної і жирних кислот Tartaric acid esters of mono- and Di-glycerides of fatty acids</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472e</code>
+		<name>Естери гліцерину та діацетилвинної і жирних кислот Diacetyltartaric and fatty acid esters of glycerol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472f</code>
+		<name>Змішані естери гліцерину та винної, оцтової і жирних кислот Tartaric acetic and fatty acid esters of glycerol(mixed)</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E472g</code>
+		<name>Сукцинільовані моногліцериди Succinylated monoglycerides</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E473</code>
+		<name>Естери сахарози жирних кислот Sucrose esters of fatty acids</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E474</code>
+		<name>Цукрогліцериди</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E475</code>
+		<name>Естери полігліцеридів та жирних кислот Polyglycerol esters of fatty acids</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E476</code>
+		<name>Полігліцеринові естери взаємоетерифікованих рацинолових кислот Polyglycerol esters of interesterified ricinoleic acid</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E477</code>
+		<name>Естери пропіленгліколю та жирних кислот Propylene glycol esters of fatty acids</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E478</code>
+		<name>Lactylated fatty acid esters of glycerol and propane-1</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E479b</code>
+		<name>Thermally oxidized soya bean oil interacted with mono- and diglycerides of fatty acids</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E480</code>
+		<name>Dioctyl sodium sulphosuccinate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E481</code>
+		<name>Лактилати натрію. Стеароїл-лактилат натрію, Олеїллактилат натрію Sodium lactilates. Sodium stearoyllactylate, Sodium oleyllactylate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E482</code>
+		<name>Calcium stearoyl-2-lactylate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E483</code>
+		<name>Stearyl tartrate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E484</code>
+		<name>Stearyl citrate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E485</code>
+		<name>Sodium stearoyl fumarate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E486</code>
+		<name>Calcium stearoyl fumarate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E487</code>
+		<name>Лаурилсульфат натрію Sodium laurylsulphate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E488</code>
+		<name>Ethoxylated Mono- and Di-Glycerides</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E489</code>
+		<name>Methyl glucoside-coconut oil ester</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E490</code>
+		<name>Пропан-1,2-діол Propane-1,2-diol</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E491</code>
+		<name>Sorbitan monostearate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E492</code>
+		<name>Сорбітан тристеарат Sorbitan tristearate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E493</code>
+		<name>Sorbitan monolaurate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E494</code>
+		<name>Sorbitan monooleate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E495</code>
+		<name>Sorbitan monopalmitate</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E496</code>
+		<name>Sorbitan trioleate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E497</code>
+		<name>Polyoxypropylene-polyoxyethylene polymers</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E498</code>
+		<name>Partial polyglycerol esters of polycondensed fatty acids of castor oil</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E500</code>
+		<name>Карбонати натрію: карбонат натрію, гідрокарбонат натрію, секвікарбонат натрію Sodium carbonate, Sodium hydrogen carbonate, Sodium sesquicarbonate</name>
+		<purpose>За технологічною необхідністю, в тому числі какао та шоколадні продукти</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E501</code>
+		<name>Карбонати калію: карбонат калію, гідрокарбонат калію Potassium carbonate, Potassium hydrogen carbonate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E503</code>
+		<name>Карбонати амонію: карбонат амонію, гідрокарбонат амонію Ammonium carbonate, Ammonium hydrogen carbonate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E504</code>
+		<name>Карбонати магнію: карбонат магнію, гідрокарбонат магнію Magnesium carbonate, Magnesium hydrogen carbonate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E507</code>
+		<name>Хлоридна кислота Hydrochloric acid</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E508</code>
+		<name>Хлорид калію Potassium chloride</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E509</code>
+		<name>Хлорид кальцію Calcium chloride</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E510</code>
+		<name>Хлорид амонію Ammonium chloride</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E511</code>
+		<name>Хлорид магнію Magnesium chloride</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Нітрат амонію</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E512</code>
+		<name>Станум(II) хлорид</name>
+		<purpose>Антиоксидант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E513</code>
+		<name>Сульфатна кислота Sulphuric acid</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, в Україні</status>
+	</item>
+	<item>
+		<code>E514</code>
+		<name>Сульфати натрію Sodium sulphates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E515</code>
+		<name>Сульфати калію Potassium sulphates</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E516</code>
+		<name>Сульфати кальцію Calcium sulphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E517</code>
+		<name>Сульфат амонію Ammonium sulphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E518</code>
+		<name>Сульфат магнію Magnesium sulphate</name>
+		<purpose>Зміцнювальний агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E519</code>
+		<name>Сульфати міді(II) Cupric sulphate</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E520</code>
+		<name>Сульфат алюмінію Aluminium sulphate</name>
+		<purpose>Зміцнювальний агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E521</code>
+		<name>Сульфат алюмінію-натрію Aluminium sodium sulphate</name>
+		<purpose>Зміцнювальний агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E522</code>
+		<name>Сульфат алюмінію-калію Aluminium potassium sulphate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E523</code>
+		<name>Сульфат алюмінію-амонію Aluminium ammonium sulphate</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E524</code>
+		<name>Гідроксид натрію Sodium hydroxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E525</code>
+		<name>Гідроксид калію Potassium hydroxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E526</code>
+		<name>Гідроксид кальцію Calcium hydroxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E527</code>
+		<name>Гідроксид амонію Ammonium hydroxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Оксид натрію Sodium oxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E528</code>
+		<name>Гідроксид магнію Magnesium hydroxide</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E529</code>
+		<name>Оксид кальцію Calcium oxide</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E530</code>
+		<name>Оксид магнію Magnesium oxide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, в Україні</status>
+	</item>
+	<item>
+		<code>E535</code>
+		<name>Sodium ferrocyanide (Регулятор кислотності)</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E536</code>
+		<name>Фороціанід калію Potassium ferrocyanide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E537</code>
+		<name>Гексаціаноманганат заліза Ferrous hexacyanomanganate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E538</code>
+		<name>Фероціанід кальцію Calcium ferrocyanide</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E539</code>
+		<name>Тіосульфат натрію Sodium thiosulphate</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E540</code>
+		<name>Dicalcium diphosphate</name>
+		<purpose>Регулятор кислотності, емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E541</code>
+		<name>Фосфати алюмінію-натрію Sodium aluminium phosphates</name>
+		<purpose>Емульгатор</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E542</code>
+		<name>Фосфат кальцію Bone phosphate (Essentiale Calcium Phosphate, Tribasic)</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E543</code>
+		<name>Поліфосфат кальцію-натрію Calcium sodium polyphosphate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E544</code>
+		<name>Поліфосфат кальцію Calcium polyphosphate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E545</code>
+		<name>Поліфосфат амонію Ammonium polyphosphate</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E550</code>
+		<name>Силікати натрію: Силікат натрію, метасилікат натрію Sodium Silicates: Sodium silicate, Sodium metasilicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E551</code>
+		<name>Діоксид кремнію аморфний Silicon dioxide amorphous</name>
+		<purpose>Освітлення соків, сиропів, солезамінник, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E552</code>
+		<name>Силікат кальцію Calcium silicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E553a</code>
+		<name>Силікат магнію, трисилікат магнію Magnesium silicate, Magnesium trisilicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E553b</code>
+		<name>Тальк Talc</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E554</code>
+		<name>Алюмосилікат натрію, силікат алюмінію-натрію Sodium aluminosilicate, sodium aluminium silicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E555</code>
+		<name>Силікат алюмінію-калію Potassium aluminium silicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E556</code>
+		<name>Алюмосилікат кальцію, силікат алюмінію-кальцію Calcium aluminosilicate, (calcium aluminium silicate)</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E557</code>
+		<name>Силікат цинку Zinc silicate</name>
+		<purpose>Антиспікаючий агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E558</code>
+		<name>Бентоніт Bentonite</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E559</code>
+		<name>Алюмосилікат Aluminium silicate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E565</code>
+		<name>4-гексилрезорцинол 4-Hexylresorcinol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E570</code>
+		<name>Жирні кислоти Fatty acids</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E574</code>
+		<name>Глюконова кислота Gluconic acid</name>
+		<purpose>Регулятор кислотності</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E575</code>
+		<name>Глюконо-дельта-лактон Glucono-delta-lactone</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E576</code>
+		<name>Глюконат натрію Sodium gluconate</name>
+		<purpose>Секвестрант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E577</code>
+		<name>Глюконат калію Potassium gluconate</name>
+		<purpose>Секвестрант</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E578</code>
+		<name>Глюконат кальцію Calcium gluconate</name>
+		<purpose>Отверджувач</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E579</code>
+		<name>Глюконат заліза Ferrous gluconate</name>
+		<purpose>Обробка оливок</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E580</code>
+		<name>Глюконат магнію Magnesium gluconate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E585</code>
+		<name>Лактат заліза Ferrous lactate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E586</code>
+		<name>4-Hexylresorcinol</name>
+		<purpose>Антиоксидант</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E598</code>
+		<name>Synthetic calcium aluminates</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E599</code>
+		<name>Перліт Perlite</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е620</code>
+		<name>Глутамінова кислота, L(+)- Glutamic Acid, L(+)-</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е621</code>
+		<name>Глутамат натрію однозаміщений Monosodium Glutamate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е622</code>
+		<name>Глутамат калію однозаміщений Monopotassium Glutamate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е623</code>
+		<name>Діглутамат кальцію Calcium Glutamate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е624</code>
+		<name>Глутамат амонію однозаміщений Monoammonium Glutamate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е625</code>
+		<name>Глутамат магнію Magnesium Glutamate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е626</code>
+		<name>Гуанілова кислота Guanylic Acid</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е627</code>
+		<name>5&apos;-Гуанілат натрію двозаміщений Disodium 5-guanylate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е628</code>
+		<name>5&apos;-Гуанілат калію двозаміщений Dipotassium 5-guanylate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е629</code>
+		<name>5&apos;-Гуанілат кальцію Calcium 5’-guanylate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е630</code>
+		<name>Інозінова кислота Inosinic Acid</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е631</code>
+		<name>5&apos;-Інозинат натрію двозаміщений Disodium Inosinate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е632</code>
+		<name>Інозинат калію Dipotassium Inosinate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е633</code>
+		<name>5’-Інозинат кальцію Calcium 5’-inosinate</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е634</code>
+		<name>5’-рібунуклеотиди кальцію Calcium 5&apos;-ribonucleotides</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е635</code>
+		<name>5-рібунуклеотиди натрію двузаміщені Disodium 5&apos;-ribonucleotides</name>
+		<purpose>підсілювач смаку і аромату</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>Е636</code>
+		<name>Мальтол Maltol</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>Е637</code>
+		<name>Етилмальтол Ethyl maltol</name>
+		<purpose>підсилювач смаку і аромату</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е640</code>
+		<name>Гліцин Glycine</name>
+		<purpose>модифікатор смаку й аромату</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>Е641</code>
+		<name>L-лейцін L-leucine</name>
+		<purpose>модифікатор смаку і аромату</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>Е642</code>
+		<name>Лізін гідрохлорид Lysin hydrochlorid</name>
+		<purpose>підсілювач смаку і аромату</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E650</code>
+		<name>Цинку ацетат Zinc acetate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E(---)</code>
+		<name>Діацетил Diacetyl</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(---)</code>
+		<name>Ефірні олії спиртові, водно-спиртові, CO2-екстракти, дистиляти та есенції на їх основі</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(---)</code>
+		<name>Аромати коптіння Smoke flavours</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(---)</code>
+		<name>Ванілін Vanillin</name>
+		<purpose>За технологічною необхідністю</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(---)</code>
+		<name>Етилванілін Ethylvanillin</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E700</code>
+		<name>Bacitracin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E701</code>
+		<name>Tetracyclines </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E702</code>
+		<name>Chlortetracycline </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E703</code>
+		<name>Oxytetracycline </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E704</code>
+		<name>Oleandomycin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E705</code>
+		<name>Penicillin-G-potassium </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E706</code>
+		<name>Penicillin-G-sodium </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E707</code>
+		<name>Penicillin-G-procaine </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E708</code>
+		<name>Penicillin-G-benzathyne </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E710</code>
+		<name>Spiramycins </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E711</code>
+		<name>Virginiamicins </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E712</code>
+		<name>Flavophospholipol </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E713</code>
+		<name>Tylosin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E714</code>
+		<name>Monensin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E715</code>
+		<name>Avoparcin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E716</code>
+		<name>Salinomycin </name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E717</code>
+		<name>Avilamycin</name>
+		<purpose>Avilamycin</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E900</code>
+		<name>Dimethyl polysiloxane (антипіноутворювач)</name>
+		<purpose>агент, що Запобігає злипанню</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E901</code>
+		<name>Віск бджолиний білий та жовтий Bee swax white and yellow</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E902</code>
+		<name>Віск свічковий Candelilla wax</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E903</code>
+		<name>Віск карнаубський Carnauba wax</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E904</code>
+		<name>Шелак Shellac</name>
+		<purpose>скління агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E905</code>
+		<name>Paraffins</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E905a</code>
+		<name>Вазелінова олія харчова Mineral oil, food grade</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E905b</code>
+		<name>Вазелін Petrolatum (Petroleum jelly)</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E905c</code>
+		<name>Парафін Petroleum wax</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E906</code>
+		<name>Gum benzoic</name>
+		<purpose>поліпшувач смаку</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E907</code>
+		<name>Crystalline wax</name>
+		<purpose>скління агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E908</code>
+		<name>Віск рисових висівок Rice bran wax</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E909</code>
+		<name>Спермацетовий віск Spermaceti wax</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E910</code>
+		<name>Воскові ефіри Wax esters</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E911</code>
+		<name>Methyl esters of fatty acids</name>
+		<purpose>скління агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E912</code>
+		<name>Montan acid esters</name>
+		<purpose>скління агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E913</code>
+		<name>Ланолін Lanolin</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E914</code>
+		<name>Oxidized polyethylene wax</name>
+		<purpose>скління агент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E915</code>
+		<name>Esters of colophony</name>
+		<purpose>скління агент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E916</code>
+		<name>Calcium iodate</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E917</code>
+		<name>Йодат калію (KIO(3) Potassium jodate Йодистий калій (KI) Potassium jodide</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E918</code>
+		<name>Nitrogen oxides</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E919</code>
+		<name>Nitrosyl chloride</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E920</code>
+		<name>L-цистиін і його натрієва та калієва солі L-cysteine and its hydroclorides sodium and potassium salts</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E921</code>
+		<name>L-cystine</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E922</code>
+		<name>Potassium persulphate</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E923</code>
+		<name>Ammonium persulphate</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E924</code>
+		<name>Potassium bromate</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E924b</code>
+		<name>Calcium bromate</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E925</code>
+		<name>Chlorine</name>
+		<purpose>preservative, відбілювач, поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E926</code>
+		<name>Chlorine dioxide (preservative)</name>
+		<purpose>відбілювач</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E927a</code>
+		<name>Azodicarbonamide</name>
+		<purpose>поліпшувач тіста</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E927b</code>
+		<name>Карбамід Carbamide</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E928</code>
+		<name>Benzoyl peroxide (поліпшувач тіста)</name>
+		<purpose>відбілювач</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E929</code>
+		<name>Acetone peroxide</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E930</code>
+		<name>Перекис кальцію Calcium peroxide</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E938</code>
+		<name>Аргон Argon</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E939</code>
+		<name>Гелій Helium</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E940</code>
+		<name>Дифтор-дихлорметан «хладон 12» Diphtor-dichlormetan</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E941</code>
+		<name>Азот Nitrogen</name>
+		<purpose>консерванти, антиокислювачі</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E942</code>
+		<name>Nitrous oxide</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E943a</code>
+		<name>Butane</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E943b</code>
+		<name>Isobutane</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E944</code>
+		<name>Propane</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E945</code>
+		<name>Chloropentafluoroethane]</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E946</code>
+		<name>Octafluorocyclobutane</name>
+		<purpose>Аерозоль спрей пропелент</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E948</code>
+		<name>Oxygen</name>
+		<purpose>упаковочний газ</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E949</code>
+		<name>Hydrogen</name>
+		<purpose>упаковочний газ</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E950</code>
+		<name>Ацесульфам калію Acesulfame potassium</name>
+		<purpose>Підсолоджувач. Напої, десерти, морозиво, консерви плодоовочеві, джеми, желе, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E951</code>
+		<name>Аспартам Aspartame</name>
+		<purpose>Підсолоджувач. Напої, десерти, морозиво, консерви плодоовочеві, джеми, желе, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E952</code>
+		<name>Цикламова кислота та її натрієва, калієва, кальцієва солі Cuclamic acid and Na, K, Ca salts</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E953</code>
+		<name>Ізомальт Izomaly</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, в Україні</status>
+	</item>
+	<item>
+		<code>E954</code>
+		<name>Сахарин (натрієва, калієва і кальцієва солі) Saccharin (and Na, К, Ca salts)</name>
+		<purpose>Підсолоджувач. Напої, десерти, морозиво, консерви плодоовочеві, джеми, желе, жувальна гумка</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E955</code>
+		<name>Sucralose (Trichlorogalactosucrose)</name>
+		<purpose>підсолоджувач</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E956</code>
+		<name>Alitame</name>
+		<purpose>підсолоджувач</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E957</code>
+		<name>Thaumatin (підсолоджувач)</name>
+		<purpose>поліпшувач смаку</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E958</code>
+		<name>Glycyrrhizin (підсолоджувач)</name>
+		<purpose>поліпшувач смаку</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E959</code>
+		<name>Neohesperidine dihydrochalcone (підсолоджувач)</name>
+		<purpose>поліпшувач смаку</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E960</code>
+		<name>Стевіозид</name>
+		<purpose>Підсолоджувач. Напої, десерти, морозиво, консерви плодоовочеві, джеми, желе, жувальна гумка</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E961</code>
+		<name>Neotame</name>
+		<purpose>підсолоджувач</purpose>
+		<status>Затверджено в ЄСу 2010 році</status>
+	</item>
+	<item>
+		<code>E962</code>
+		<name>Aspartame-acesulfame salt (підсолоджувач)</name>
+		<purpose>стабілізатор (їжі)</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E965</code>
+		<name>Мальтітол і мальтітоловий сироп Maltitol and maltitol syrup</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Натуральні та натурально-ідентичні ароматичні речовини</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E966</code>
+		<name>Lactitol</name>
+		<purpose>підсолоджувач</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E967</code>
+		<name>Xylitol</name>
+		<purpose>підсолоджувач</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E968</code>
+		<name>Ксиліт Xylitol</name>
+		<purpose>зволожувач</purpose>
+		<status>	Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Отизон (аналог аце-сульфаму К) Otison</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(???)</code>
+		<name>Сахарол Sacharol</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E999</code>
+		<name>Екстракт квілаї (піноутворювач) Quiliaia extracts</name>
+		<purpose>Спінювач. Ароматизовані безалкогольні напої на основі води</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1000</code>
+		<name>Cholic acid</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1001</code>
+		<name>Холін (вітамін B4) Choline</name>
+		<purpose>Продукти тваринного походження: яйце, печінка, нирки, м&apos;ясо; рослинного — овес, ячмінь, соя, шпинат, капуста, пшениця</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1100</code>
+		<name>Амілази Amylases</name>
+		<purpose>стабілізатор (їжі), підсилювач смаку та аромату. Хліб, оселедці, пиво, соки, спирт, м&apos;ясо, тверді сири</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1101</code>
+		<name>Протеази Proteases</name>
+		<purpose>стабілізатор (їжі), підсилювач смаку та аромату.</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1102</code>
+		<name>Глюкозо-оксидаза Glucose oxidase</name>
+		<purpose>антиоксидант</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1103</code>
+		<name>Інвертази Invertases</name>
+		<purpose>стабілізатор</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1104</code>
+		<name>Ліпази Lipases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(????)</code>
+		<name>Каталази Catalases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(????)</code>
+		<name>Целюлази Zelulases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(????)</code>
+		<name>Пектинази Pectinases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(????)</code>
+		<name>Бета-галактозидази Beta-galactosidases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E(????)</code>
+		<name>Глюкоамілази Glucoamylases</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1105</code>
+		<name>Лізоцим Lysozyme</name>
+		<purpose>консерванти, антиокислювачі</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1200</code>
+		<name>Polydextrose</name>
+		<purpose>стабілізатор (їжі), загусник, зволожувач</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1201</code>
+		<name>Polyvinylpyrrolidone</name>
+		<purpose>стабілізатор (їжі)</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1202</code>
+		<name>Polyvinylpolypyrrolidone (carrier)</name>
+		<purpose>стабілізатор (їжі)</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1203</code>
+		<name>Polyvinyl alcohol</name>
+		<purpose>Затверджено в ЄС2010 році</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1204</code>
+		<name>Pullulan</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1400</code>
+		<name>Декстрин харчовий та його похідні Dextrin</name>
+		<purpose></purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1401</code>
+		<name>Modified starch ((Acid-treated starch) Стабілізатор (їжі))</name>
+		<purpose>Загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1402</code>
+		<name>Alkaline modified starch (Стабілізатор (їжі))</name>
+		<purpose>Загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1403</code>
+		<name>Bleached starch (Стабілізатор (їжі))</name>
+		<purpose>Загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1404</code>
+		<name>Модифіковані крохмалі</name>
+		<purpose>Згущувачі, Емульгатори, стабілізатори. За технологічною необхідністю</purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1405</code>
+		<name>Enzyme treated starch</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1410</code>
+		<name>Монокрохмалю фосфат Monostarch phosphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1411</code>
+		<name>Distarch glycerol (загусник)</name>
+		<purpose>Емульгатор</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1412</code>
+		<name>Дикрохмалю фосфат Distarch phosphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1413</code>
+		<name>Фосфатованого крохмалю фосфат Phosphated distarch phosphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1414</code>
+		<name>Ацетильованого крохмалю фосфат Acetylated distarch phosphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1420</code>
+		<name>Крохмаль ацетильований Acetyiated starch</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1421</code>
+		<name>Starch acetate esterified with vinyl acetate (стабілізатор (їжі))</name>
+		<purpose>загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1422</code>
+		<name>Ацетильованого крохмалю адипат Acetylated distarch adipate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1423</code>
+		<name>Acetylated distarch glycerol</name>
+		<purpose>загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1430</code>
+		<name>Distarch glycerine (стабілізатор (їжі))</name>
+		<purpose>загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1440</code>
+		<name>Гідроксипропілен-крохмаль Hydroxy propyl starch</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1441</code>
+		<name>Hydroxy propyl distarch glycerine (стабілізатор (їжі))</name>
+		<purpose>загусник</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1442</code>
+		<name>Гідроксипропілен-крохмалю фосфат Hydroxy propyl distarch phosphate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1443</code>
+		<name>Hydroxy propyl distarch glycerol</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1450</code>
+		<name>Крохмалю натрійоктеніл сукцинат Starch sodium octenyl succinate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1451</code>
+		<name>Acetylated oxidised starch (Емульгатор)</name>
+		<purpose>загусник</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1452</code>
+		<name>Starch aluminium octenyl succinate</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1501</code>
+		<name>Benzylated hydrocarbons</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1502</code>
+		<name>Butane-1, 3-diol</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1503</code>
+		<name>Castor oil</name>
+		<purpose>resolving agent</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1504</code>
+		<name>Ethyl acetate</name>
+		<purpose>flavour solvent</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1505</code>
+		<name>Triethyl citrate</name>
+		<purpose>стабілізатор піни</purpose>
+		<status>Схвалений в ЄС</status>
+	</item>
+	<item>
+		<code>E1510</code>
+		<name>Етиловий спирт</name>
+		<purpose>Розчинник</purpose>
+		<status>Схвалений в Україні</status>
+	</item>
+	<item>
+		<code>E1516</code>
+		<name>Glyceryl monoacetate</name>
+		<purpose>flavour solvent</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1517</code>
+		<name>Glyceryl diacetate or diacetin</name>
+		<purpose>flavour solvent</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1518</code>
+		<name>Триацетин Triacetin</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1519</code>
+		<name>Benzyl alcohol</name>
+		<purpose></purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1520</code>
+		<name>Пропілен гліколь Propilene glycol</name>
+		<purpose></purpose>
+		<status>Схвалений в ЄС, Україні</status>
+	</item>
+	<item>
+		<code>E1521</code>
+		<name>Polyethylene glycol 8000</name>
+		<purpose>Затверджено в ЄС2010 році</purpose>
+		<status></status>
+	</item>
+	<item>
+		<code>E1525</code>
+		<name>Hydroxyethyl cellulose</name>
+		<purpose>загусник</purpose>
+		<status></status>
+	</item>
+</enumbers>
